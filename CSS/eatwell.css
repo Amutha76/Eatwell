@@ -1,0 +1,73 @@
+﻿boby{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body > * {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0094ff;
+    text-shadow: 3px 3px 3px black;
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img {
+    padding-left: 1em;
+}
+
+.content {
+    padding-left: 4em;
+    margin-right: 1em;
+    padding-right: 25px;
+    width: 800px;
+}
+
+
+figcaption {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding-left: 50px;
+    text-align: center;
+    padding-bottom:25px;
+}
+.sidebar {
+    vertical-align: text-top;
+        
+    width: 20em;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 110%;
+    line-height: 150%;
+}
+.imgportion{
+    width:800px;
+    
+   
+}
+.portiontable {
+    height: 100px;
+    border-radius: 5px;
+    border: 3px solid darkblue;
+    border-collapse: collapse;
+    background-color: lightblue;
+}
+.portionth {
+    border: 3px solid darkblue;
+    background-color: darkblue;
+    color:white;
+    width:;
+}
+.portiontd{
+    background-color:lightblue;
+    padding-left:10px;
+}
+.portioncontent { 
+        width: 1000px;
+}
